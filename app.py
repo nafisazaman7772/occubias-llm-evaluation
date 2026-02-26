@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="OccuBias: Occupational LLM Evaluation", layout="wide")
 
 st.title("OccuBias: Occupational LLM Evaluation")
-st.caption("Interactive exploration of occupational gender bias in LLM outputs (precomputed results).")
+st.caption("Interactive exploration of occupational gender bias in Llama 3- Instruct & Gemma 7B- it  outputs .")
 
 # ------------------------------------------------------------
 # Constants
