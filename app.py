@@ -353,4 +353,4 @@ else:
 # Footer
 # ------------------------------------------------------------
 st.divider()
-st.caption("Tip: For a recruiter-friendly demo, keep the app preloaded with results (no upload needed).")
+st.caption(" Mini Version of Occupational Bias Evaluation.")
